@@ -11,7 +11,7 @@ regular:
     - start: "08:29"
       end: "08:35"
 ddmc:
-  cookie: ""         # 使用抓包工具获取 叮咚买菜上的用户 `cookie` (DDXQSESSID)
+  cookie: "c6404148a82a0296f71c2285c1cbca48"         # 使用抓包工具获取 叮咚买菜上的用户 `cookie` (DDXQSESSID)
   pay_type: "wechat" # 支付方式：支付宝、alipay、微信、wechat
   channel: 3         # 通道: app => 3, 微信小程序 => 4
   interval: 100      # 连续发起请求间隔时间(ms)
